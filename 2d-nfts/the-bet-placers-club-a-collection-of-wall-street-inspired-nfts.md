@@ -14,14 +14,14 @@ The inspiration for the Bet Placer’s character came from the legendary short s
 
 The first collection consists of 10.000 unique 2D Bet Placer’s Club NFTs. Every single NFT of this collection is a unique collectible. Each layer is handmade and sent as a high quality vector based SVG (Scalable Vector Graphics) format. Unlike raster files, vector graphics always maintain their resolution, no matter how much they’re scaled up or down. For that reason, every collectible of the Bet Placer’s Club can be printed in any size you want. Imagine printing your NFTs on T-shirts, coffee mugs or even billboards - it’s all possible!Later this year, we will release another collection: 20.000 unique 3D Avatar NFTs. Are you a holder of the first 2D Genesis NFT collection? If so, you will get a free 3D avatar NFT AirDropped to your wallet. The 3D NFT collection has similar traits as the 2D NFT you already own, so that the rarity is preserved for each holder. The avatars will be compatible with the NetVRK Metaverse, which will go live at the end of 2022.
 
-|                                                                        | TUNGSTEN | GOLDEN |        DIAMOND       |
-| ---------------------------------------------------------------------- | :------: | :----: | :------------------: |
-| Free 3D Bet Placer’s Club NFT claim                                    |     ✓    |    ✓   |           ✓          |
-| Access to private Bet Placer’s Club Discord channel                    |     ✓    |    ✓   |           ✓          |
-| Chance of super rare traits                                            |     ✓    |    ✓   |           ✓          |
-| Chance of additional free Tungsten tier NFT through a whitelist raffle |    6%    |   17%  |          36%         |
-| Select preferred Bet Placer’s number                                   |          |    ✓   |           ✓          |
-| Select premium lucky Bet Placer’s number                               |          |        |           ✓          |
+|                                                                        | TUNGSTEN | GOLDEN | DIAMOND              |
+| ---------------------------------------------------------------------- | :------: | :----: | -------------------- |
+| Free 3D Bet Placer’s Club NFT claim                                    |     ✓    |    ✓   | ✓                    |
+| Access to private Bet Placer’s Club Discord channel                    |     ✓    |    ✓   | ✓                    |
+| Chance of super rare traits                                            |     ✓    |    ✓   | ✓                    |
+| Chance of additional free Tungsten tier NFT through a whitelist raffle |    6%    |   17%  | 36%                  |
+| Select preferred Bet Placer’s number                                   |          |    ✓   | ✓                    |
+| Select premium lucky Bet Placer’s number                               |          |        | ✓                    |
 | Receive a badge trait                                                  |          | Golden | Diamond (super rare) |
-| Receive guaranteed a theme character with rarity traits below < 1%     |          |        |           ✓          |
-| OG - Status                                                            |          |        |           ✓          |
+| Receive guaranteed a theme character with rarity traits below < 1%     |          |        | ✓                    |
+| OG - Status                                                            |          |        | ✓                    |
